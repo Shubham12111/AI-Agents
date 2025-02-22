@@ -1,0 +1,14 @@
+rich
+fastapi
+fastapi-socketio
+uvicorn
+pymongo
+pinecone-text
+pinecone
+python-dotenv
+google
+beautifulsoup4
+requests
+langchain
+openai
+google-search-results
